@@ -1,0 +1,12 @@
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\bin\Debug\netcoreapp3.1\TcpGame_Client.exe
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\bin\Debug\netcoreapp3.1\TcpGame_Client.deps.json
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\bin\Debug\netcoreapp3.1\TcpGame_Client.runtimeconfig.json
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\bin\Debug\netcoreapp3.1\TcpGame_Client.runtimeconfig.dev.json
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\bin\Debug\netcoreapp3.1\TcpGame_Client.dll
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\bin\Debug\netcoreapp3.1\TcpGame_Client.pdb
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\obj\Debug\netcoreapp3.1\TcpGame_Client.AssemblyInfoInputs.cache
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\obj\Debug\netcoreapp3.1\TcpGame_Client.AssemblyInfo.cs
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\obj\Debug\netcoreapp3.1\TcpGame_Client.csproj.CoreCompileInputs.cache
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\obj\Debug\netcoreapp3.1\TcpGame_Client.dll
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\obj\Debug\netcoreapp3.1\TcpGame_Client.pdb
+D:\Учеба\c#\TcpGame_Client\TcpGame_Client\obj\Debug\netcoreapp3.1\TcpGame_Client.genruntimeconfig.cache

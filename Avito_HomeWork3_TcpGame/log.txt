@@ -1,0 +1,31 @@
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on any, link-type LINUX_SLL (Linux cooked v1), capture size 262144 bytes
+12:24:57.668184 IP localhost.58206 > localhost.9999: Flags [S], seq 138000883, win 65495, options [mss 65495,sackOK,TS val 3048274976 ecr 0,nop,wscale 7], length 0
+12:24:57.668203 IP localhost.9999 > localhost.58206: Flags [S.], seq 233074526, ack 138000884, win 65483, options [mss 65495,sackOK,TS val 3048274977 ecr 3048274976,nop,wscale 7], length 0
+12:24:57.668213 IP localhost.58206 > localhost.9999: Flags [.], ack 1, win 512, options [nop,nop,TS val 3048274977 ecr 3048274977], length 0
+12:25:05.413261 IP localhost.58206 > localhost.9999: Flags [P.], seq 1:17, ack 1, win 512, options [nop,nop,TS val 3048282722 ecr 3048274977], length 16
+12:25:05.413317 IP localhost.9999 > localhost.58206: Flags [.], ack 17, win 512, options [nop,nop,TS val 3048282722 ecr 3048282722], length 0
+12:25:05.414374 IP localhost.9999 > localhost.58206: Flags [P.], seq 1:9, ack 17, win 512, options [nop,nop,TS val 3048282723 ecr 3048282722], length 8
+12:25:05.414428 IP localhost.58206 > localhost.9999: Flags [.], ack 9, win 512, options [nop,nop,TS val 3048282723 ecr 3048282723], length 0
+12:25:07.211284 IP localhost.58206 > localhost.9999: Flags [P.], seq 17:33, ack 9, win 512, options [nop,nop,TS val 3048284519 ecr 3048282723], length 16
+12:25:07.211394 IP localhost.9999 > localhost.58206: Flags [.], ack 33, win 512, options [nop,nop,TS val 3048284520 ecr 3048284519], length 0
+12:25:07.211798 IP localhost.9999 > localhost.58206: Flags [P.], seq 9:17, ack 33, win 512, options [nop,nop,TS val 3048284520 ecr 3048284519], length 8
+12:25:07.211869 IP localhost.58206 > localhost.9999: Flags [.], ack 17, win 512, options [nop,nop,TS val 3048284520 ecr 3048284520], length 0
+12:25:09.115059 IP localhost.58206 > localhost.9999: Flags [P.], seq 33:49, ack 17, win 512, options [nop,nop,TS val 3048286423 ecr 3048284520], length 16
+12:25:09.115287 IP localhost.9999 > localhost.58206: Flags [.], ack 49, win 512, options [nop,nop,TS val 3048286423 ecr 3048286423], length 0
+12:25:09.115452 IP localhost.9999 > localhost.58206: Flags [P.], seq 17:25, ack 49, win 512, options [nop,nop,TS val 3048286424 ecr 3048286423], length 8
+12:25:09.115504 IP localhost.58206 > localhost.9999: Flags [.], ack 25, win 512, options [nop,nop,TS val 3048286424 ecr 3048286424], length 0
+12:25:09.891579 IP localhost.58206 > localhost.9999: Flags [P.], seq 49:65, ack 25, win 512, options [nop,nop,TS val 3048287200 ecr 3048286424], length 16
+12:25:09.892629 IP localhost.9999 > localhost.58206: Flags [P.], seq 25:33, ack 65, win 512, options [nop,nop,TS val 3048287201 ecr 3048287200], length 8
+12:25:09.892683 IP localhost.58206 > localhost.9999: Flags [.], ack 33, win 512, options [nop,nop,TS val 3048287201 ecr 3048287201], length 0
+12:25:10.501191 IP localhost.58206 > localhost.9999: Flags [P.], seq 65:81, ack 33, win 512, options [nop,nop,TS val 3048287810 ecr 3048287201], length 16
+12:25:10.501589 IP localhost.9999 > localhost.58206: Flags [P.], seq 33:41, ack 81, win 512, options [nop,nop,TS val 3048287810 ecr 3048287810], length 8
+12:25:10.501596 IP localhost.58206 > localhost.9999: Flags [.], ack 41, win 512, options [nop,nop,TS val 3048287810 ecr 3048287810], length 0
+12:25:11.318164 IP localhost.58206 > localhost.9999: Flags [P.], seq 81:97, ack 41, win 512, options [nop,nop,TS val 3048288627 ecr 3048287810], length 16
+12:25:11.322662 IP localhost.9999 > localhost.58206: Flags [P.], seq 41:55, ack 97, win 512, options [nop,nop,TS val 3048288631 ecr 3048288627], length 14
+12:25:11.322725 IP localhost.58206 > localhost.9999: Flags [.], ack 55, win 512, options [nop,nop,TS val 3048288631 ecr 3048288631], length 0
+12:25:11.323339 IP localhost.9999 > localhost.58206: Flags [F.], seq 55, ack 97, win 512, options [nop,nop,TS val 3048288632 ecr 3048288631], length 0
+12:25:11.367450 IP localhost.58206 > localhost.9999: Flags [.], ack 56, win 512, options [nop,nop,TS val 3048288676 ecr 3048288632], length 0
+12:25:12.231220 IP localhost.58206 > localhost.9999: Flags [P.], seq 97:113, ack 56, win 512, options [nop,nop,TS val 3048289540 ecr 3048288632], length 16
+12:25:12.231234 IP localhost.9999 > localhost.58206: Flags [R], seq 233074582, win 0, length 0
+

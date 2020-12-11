@@ -1,0 +1,13 @@
+D:\Учеба\c#\TcpGame\TcpGame\bin\Debug\netcoreapp3.1\TcpGame.exe
+D:\Учеба\c#\TcpGame\TcpGame\bin\Debug\netcoreapp3.1\TcpGame.deps.json
+D:\Учеба\c#\TcpGame\TcpGame\bin\Debug\netcoreapp3.1\TcpGame.runtimeconfig.json
+D:\Учеба\c#\TcpGame\TcpGame\bin\Debug\netcoreapp3.1\TcpGame.runtimeconfig.dev.json
+D:\Учеба\c#\TcpGame\TcpGame\bin\Debug\netcoreapp3.1\TcpGame.dll
+D:\Учеба\c#\TcpGame\TcpGame\bin\Debug\netcoreapp3.1\TcpGame.pdb
+D:\Учеба\c#\TcpGame\TcpGame\obj\Debug\netcoreapp3.1\TcpGame.AssemblyInfoInputs.cache
+D:\Учеба\c#\TcpGame\TcpGame\obj\Debug\netcoreapp3.1\TcpGame.AssemblyInfo.cs
+D:\Учеба\c#\TcpGame\TcpGame\obj\Debug\netcoreapp3.1\TcpGame.csproj.CoreCompileInputs.cache
+D:\Учеба\c#\TcpGame\TcpGame\obj\Debug\netcoreapp3.1\TcpGame.dll
+D:\Учеба\c#\TcpGame\TcpGame\obj\Debug\netcoreapp3.1\TcpGame.pdb
+D:\Учеба\c#\TcpGame\TcpGame\obj\Debug\netcoreapp3.1\TcpGame.genruntimeconfig.cache
+D:\Учеба\c#\TcpGame\TcpGame\obj\Debug\netcoreapp3.1\TcpGame.csprojAssemblyReference.cache
